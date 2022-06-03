@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning HTML/CSS/ANGULAR.
-- 📫 Email: ramosklesiane@gmail.com
+- 📫 Email: klesianeramoss@gmail.com
 - 😄 Pronouns: she/her
 
 <div align="center">
