@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning HTML/CSS/ANGULAR.
+- 🌱 I’m currently learning HTML/CSS/JS/ANGULAR.
 - 📫 Email: klesianeramoss@gmail.com
 - 😄 Pronouns: she/her
 
