@@ -12,4 +12,3 @@
 
   ![Snake animation](https://github.com/klesiane/klesiane/blob/output/github-contribution-grid-snake.svg)
 </div>
-
