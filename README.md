@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning HTML | CSS | JS | ANGULAR | REACTJS.
+- 🌱 I’m currently learning HTML | CSS | JS | TS | ANGULAR | REACTJS.
 - 📫 Email: klesianeramoss@gmail.com
 - 😄 Pronouns: she/her
 
